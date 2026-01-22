@@ -12,7 +12,7 @@ The project was designed as a mobile-first menu system for cafe customers.
 The Digital Menu allows users to:
 - Browse cafe menu items on mobile
 - View item details
-- Add items to cart
+
 - Manage wishlist
 - Navigate smoothly between menu pages
 
@@ -26,7 +26,6 @@ The UI is optimized for **QR-code access** and small screens.
 - 🍔 Menu listing with categories
 - 🔍 Product detail page
 - ❤️ Wishlist functionality
-- 🛒 Add to cart & cart view
 - ⚡ Fast navigation and clean UI
 
 ---
