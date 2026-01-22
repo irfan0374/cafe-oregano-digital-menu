@@ -45,13 +45,19 @@ The UI is optimized for **QR-code access** and small screens.
 
 
 ### Detail Page
-![Detail](screenshots/detail-page.png)
+![Home banner ](home.jpeg)
 
 ### Cart
-![Cart](screenshots/cart-view.png)
+![Home detail](home2.jpeg)
+
+### list juice
+![list](list1.jpeg)
+
+### list juice
+![list](list2.jpeg)
 
 ### Wishlist
-![Wishlist](screenshots/wishlist.png)
+![Wishlist](cart.jpeg)
 
 ---
 
